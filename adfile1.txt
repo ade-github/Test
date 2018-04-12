@@ -1,0 +1,11 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 0AE9-0BAF
+
+ Directory of C:\TestGit-GitHub
+
+12/04/2018  18:59    <DIR>          .
+12/04/2018  18:59    <DIR>          ..
+12/04/2018  18:59                 0 adfile1.txt
+12/04/2018  18:31               332 test.html
+               2 File(s)            332 bytes
+               2 Dir(s)  83,044,573,184 bytes free
